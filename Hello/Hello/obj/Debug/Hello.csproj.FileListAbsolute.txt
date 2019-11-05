@@ -1,0 +1,7 @@
+E:\BITM-Git-2\Hello\Hello\bin\Debug\Hello.exe.config
+E:\BITM-Git-2\Hello\Hello\bin\Debug\Hello.exe
+E:\BITM-Git-2\Hello\Hello\bin\Debug\Hello.pdb
+E:\BITM-Git-2\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+E:\BITM-Git-2\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+E:\BITM-Git-2\Hello\Hello\obj\Debug\Hello.exe
+E:\BITM-Git-2\Hello\Hello\obj\Debug\Hello.pdb
